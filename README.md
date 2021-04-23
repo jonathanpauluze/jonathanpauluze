@@ -68,7 +68,7 @@
       </a>
       <br>Styled Components
     </td>
-    <td align="center" width="192">
+    <td align="center" width="96">
       <a href="#jonathanpauluze-tech">
         <img src="./.github/nodejs.svg" width="48" height="48" alt="NodeJS" />
       </a>
